@@ -10,7 +10,7 @@ if no > 1:
             break
         else:
 
-            print(no, "is prime no")
+            print(no, "This is prime no")
 
             for i in range(0, no+1):
                 sum +=i
